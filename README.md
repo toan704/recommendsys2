@@ -1,4 +1,5 @@
-# The MovieGEEK - Hướng dẫn cài đặt trực tiếp (Cách 2)
+# CÁCH 2: TRỰC TIẾP
+# The MovieGEEK - Hướng dẫn cài đặt
 
 Hướng dẫn này cung cấp các bước cài đặt phiên bản tinh chỉnh của The MovieGEEK để triển khai nhanh chóng và dễ dàng hơn theo (Cách 2) trực tiếp.
 
@@ -8,7 +9,7 @@ Nguồn chính của tác giả: [Tại đây](https://github.com/practical-reco
 
 ## Yêu cầu
 
-- Mã nguồn được tinh chỉnh dành cho Docker: Tải tại [MovieGEEK Custom](https://github.com/toan704/recommendsys2)
+- Mã nguồn được tinh chỉnh dành cho cài đặt trực tiếp: Tải tại [MovieGEEK Custom](https://github.com/toan704/recommendsys2)
 - Phiên bản python 3.6: [Python3.6_forMovieGEEK](https://github.com/toan704/recommendsys2/releases/download/tf/python-3.6.0-amd64.exe) (Tải về và cài đặt, tích chọn "Add to path")
 
 ## Cấu hình API
