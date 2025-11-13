@@ -9,7 +9,7 @@ Nguồn chính của tác giả: [Tại đây](https://github.com/practical-reco
 ## Yêu cầu
 
 - Mã nguồn được tinh chỉnh dành cho Docker: Tải tại [MovieGEEK Custom](https://github.com/toan704/recommendsys2)
-- Phiên bản python 3.6: Cài đặt từ [Python3.6_forMovieGEEK](link ở đây) (Tải về và cài đặt, tích chọn "Add to path")
+- Phiên bản python 3.6: Cài đặt từ [Python3.6_forMovieGEEK](https://github.com/toan704/recommendsys2/releases/download/tf/python-3.6.0-amd64.exe) (Tải về và cài đặt, tích chọn "Add to path")
 
 ## Cấu hình API
 
