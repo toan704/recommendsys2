@@ -1,0 +1,26 @@
+Collecting appdirs==1.4.3
+  Using cached appdirs-1.4.3-py2.py3-none-any.whl (12 kB)
+Collecting boto==2.49.0
+  Using cached boto-2.49.0-py2.py3-none-any.whl (1.4 MB)
+Collecting boto3==1.17.0
+  Using cached boto3-1.17.0-py2.py3-none-any.whl (130 kB)
+Collecting botocore==1.20.0
+  Using cached botocore-1.20.0-py2.py3-none-any.whl (7.2 MB)
+Collecting bz2file==0.98
+  Using cached bz2file-0.98.tar.gz (11 kB)
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting certifi==2022.12.7
+  Using cached certifi-2022.12.7-py3-none-any.whl (155 kB)
+Collecting chardet==3.0.4
+  Using cached chardet-3.0.4-py2.py3-none-any.whl (133 kB)
+Collecting cycler==0.10.0
+  Using cached cycler-0.10.0-py2.py3-none-any.whl (6.5 kB)
+Collecting docutils==0.14
+  Using cached docutils-0.14-py3-none-any.whl (543 kB)
+Collecting gensim==3.6.0
+  Using cached gensim-3.6.0-cp36-cp36m-win_amd64.whl (23.6 MB)
+Collecting idna==2.7
+  Using cached idna-2.7-py2.py3-none-any.whl (58 kB)
+Collecting jmespath==0.9.3
+  Using cached jmespath-0.9.3-py2.py3-none-any.whl (23 kB)
