@@ -1,7 +1,9 @@
 # The MovieGEEK - Hướng dẫn cài đặt trực tiếp (Cách 2)
 
 Hướng dẫn này cung cấp các bước cài đặt phiên bản tinh chỉnh của The MovieGEEK để triển khai nhanh chóng và dễ dàng hơn theo (Cách 2) trực tiếp.
+
 Ngoài ra, có thể cài đặt theo (Cách 1) Docker: [Tại đây](https://github.com/toan704/recommendsys)
+
 Nguồn chính của tác giả: [Tại đây](https://github.com/practical-recommender-systems/moviegeek)
 
 ## Yêu cầu
