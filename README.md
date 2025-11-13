@@ -1,5 +1,5 @@
 # CÁCH 2: TRỰC TIẾP
-**The MovieGEEK - Hướng dẫn cài đặt**
+## The MovieGEEK - Hướng dẫn cài đặt
 
 Hướng dẫn này cung cấp các bước cài đặt phiên bản tinh chỉnh của The MovieGEEK để triển khai nhanh chóng và dễ dàng hơn theo (Cách 2) trực tiếp.
 
@@ -38,4 +38,4 @@ http://localhost:8000
 ```
 Để dừng, hãy ấn `Ctrl+C`
 
-Contact me: [toan704](https://www.facebook.com/toan704)
+Contact me: [Hoàng Kim Toản - Toan704](https://www.facebook.com/toan704)
