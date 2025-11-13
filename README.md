@@ -34,7 +34,7 @@ python manage.py runserver 127.0.0.1:8000
 ```
 2. Truy cập URL ở trình duyệt:
 ```bash
-http://localhost:8000
+http://localhost:8002
 ```
 Để dừng, hãy ấn `Ctrl+C`
 
